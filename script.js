@@ -1,5 +1,13 @@
-console.log("mad-lib");
-//variables
-let name ="";
-const age = 21;
-var oldway = "used"
+console.log("mad-Lib");
+//variables///
+write pluraNoun = "";
+Var Verb = "";
+Var adjective1 = "";
+Var adjective2 = "";
+
+ //input--//
+ //output//
+ console.log("");
+ console.log ("");
+ console.log("");
+ console.log("");
