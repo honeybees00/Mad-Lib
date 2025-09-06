@@ -1,8 +1,8 @@
 console.log("mad-Lib");
 //variables///
-write pluraNoun = "";
-Var Verb = "";
-Var adjective1 = "";
+var pluraNoun = "";
+var verb = "";
+var adjective1 = "";
 Var adjective2 = "";
 
  //input--//
