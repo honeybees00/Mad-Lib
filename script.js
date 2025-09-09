@@ -6,6 +6,7 @@ var adjective1 = "";
 Var adjective2 = "";
 
  //input--//
+ 
  //output//
  console.log("");
  console.log ("");
